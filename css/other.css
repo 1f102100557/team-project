@@ -1,3 +1,53 @@
+h1{
+    text-align: center;
+}
+
+body{
+    margin-left: 100px;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex .image{
+    width: auto;
+    height: auto;
+}
+
+.flex .text{
+    margin: 30px 0 30px 20px;
+    padding: 0;
+}
+
+.img{
+    width: 50%;
+    margin: 30px 100px 30px 0;
+}
+
+#hunny_hunt{
+    width: 400px;
+}
+
+#sprush{
+    width: 400px;
+}
+
+#bigsunder{
+    width: 600px;
+}
+
+#soarin{
+    width: 500px
+}
+#toy_story{
+    width: 400px;
+}
+
+#tower_of_terrier{
+    width: 400px;
+}
+
 .land{background-color: rgb(249, 208, 138);
     font-size: larger;
     padding-top: 8px;
