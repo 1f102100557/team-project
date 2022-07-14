@@ -3,7 +3,9 @@ h1{
 }
 
 body{
+    background-color: #f1f1f1;
     margin-left: 100px;
+    margin-right: 100px;
 }
 
 .flex{
@@ -25,7 +27,21 @@ body{
     margin: 0 100px 20px 0;
 }
 
-.title{
+.titleland{
+    background-color: rgb(249, 208, 138);
+    font-size: larger;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    margin: 30px 0 30px 0;
+}
+
+.titlesea{
+    background-color: rgb(178, 247, 224);
+    font-size: larger;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
     margin: 30px 0 30px 0;
 }
 
